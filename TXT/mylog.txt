@@ -6,3 +6,5 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 ZCZC W00 15 L00 Setting up W00 github
+ZCZC W00 80 L10 Making notes during my reading for Assignment #5 in Week 00
+ZCZC W00 90 L01 Taking notes on the PowerPoint slides of Week 00
