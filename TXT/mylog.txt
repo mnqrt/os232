@@ -11,3 +11,5 @@ ZCZC W00 90 L01 Taking notes on the PowerPoint slides of Week 00
 ZCZC W00 60 L11 Setting up Google Cloud Platform
 ZCZC W01 120 L70 Learning new data structure and how to implement it
 ZCZC W01 40 L11 Reading assignment one and discussing how to do it on google cloud platform
+ZCZC W01 70 L11 Reading the given resources from Assignment #2
+ZCZC W01 100 L11 Finishing assignment week one with assistance of a friend and following the provided instruction
