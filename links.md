@@ -15,3 +15,6 @@ The given youtube link provides list of user-friendly commands which help to ins
 
 4. [Structured cheatsheet of regular expression](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)<br>
 The given pages provides a detailed information in form of cheatsheet for Regular Expression, as known as regex which categorized to several section.
+
+5. [Linux - Tutorial for Beginners ](https://www.youtube.com/watch?v=BMGixkvJ-6w)<br>
+This youtube link provides a beginner friendly tutorial for linux. The explanation are clear and the accent are easy to understand.
