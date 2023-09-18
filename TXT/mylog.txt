@@ -15,3 +15,6 @@ ZCZC W01 40 L11 Reading assignment one and discussing how to do it on google clo
 ZCZC W01 70 L11 Reading the given resources from Assignment #2
 ZCZC W01 100 L11 Finishing assignment week one with assistance of a friend and following the provided instruction
 ZCZC W02 90 L98 Studying algorithm
+ZCZC W02 100 L05 Studying for OS QUIZ
+ZCZC W02 50 L12 Trying to understand Assignment #2
+ZCZC W02 125 L12 Doing Assignment #2 (myscript.sh Not finished)
