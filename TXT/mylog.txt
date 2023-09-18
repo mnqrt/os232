@@ -14,3 +14,4 @@ ZCZC W01 65 L05 Studying for quiz 1
 ZCZC W01 40 L11 Reading assignment one and discussing how to do it on google cloud platform
 ZCZC W01 70 L11 Reading the given resources from Assignment #2
 ZCZC W01 100 L11 Finishing assignment week one with assistance of a friend and following the provided instruction
+ZCZC W02 90 L98 Studying algorithm
