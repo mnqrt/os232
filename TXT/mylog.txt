@@ -18,3 +18,5 @@ ZCZC W02 90 L98 Studying algorithm
 ZCZC W02 100 L05 Studying for OS QUIZ
 ZCZC W02 50 L12 Trying to understand Assignment #2
 ZCZC W02 125 L12 Doing Assignment #2 (myscript.sh Not finished)
+ZCZC W03 70 L13 Handling error on google cloud platform
+ZCZC W03 100 L13 Attending a meeting with Teaching assistant on the problem
