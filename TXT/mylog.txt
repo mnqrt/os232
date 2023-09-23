@@ -20,3 +20,6 @@ ZCZC W02 50 L12 Trying to understand Assignment #2
 ZCZC W02 125 L12 Doing Assignment #2 (myscript.sh Not finished)
 ZCZC W03 70 L13 Handling error on google cloud platform
 ZCZC W03 100 L13 Attending a meeting with Teaching assistant on the problem
+ZCZC W03 120 L13 Restarting Assignment from week 0 to week 2
+ZCZC W03 140 L13 Doing assignment 3
+ZCZC W03 70 L05 Studying for Quiz 3
