@@ -23,3 +23,7 @@ ZCZC W03 100 L13 Attending a meeting with Teaching assistant on the problem
 ZCZC W03 120 L13 Restarting Assignment from week 0 to week 2
 ZCZC W03 140 L13 Doing assignment 3
 ZCZC W03 70 L05 Studying for Quiz 3
+ZCZC W04 45 L13 Reading The slide in assignment 1
+ZCZC W04 135 L13 Doing Week04 assignment 1 & 2
+ZCZC W04 120 L13 Doing PopQuiz 1 & 2
+ZCZC W04 85 L05 Studying for Quiz 4
