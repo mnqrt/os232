@@ -36,3 +36,12 @@ The given short youtube video explains more in-depth on "Makefile"
 
 11. [Learning the Linux File System](https://www.youtube.com/watch?v=HIXzJ3Rz9po)<br>
 This video explains the Linux file system in a structured and detailed way.
+
+12. [virtual hard disk (VHD)](https://www.techtarget.com/searchvirtualdesktop/definition/virtual-hard-disk-VHD) <br>
+The given article describes the main difference between our physical disks and virtual disk clearly
+
+13. [Vim Cheat Sheets](https://vim.rtorr.com/) <br>
+The given link provied vim cheatsheet which may be helpful for Operating System.
+
+14. [C in 100 Seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4) <br>
+The given youtube link describes C simply in 100 seconds
