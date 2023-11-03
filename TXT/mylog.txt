@@ -30,4 +30,8 @@ ZCZC W04 85 L05 Studying for Quiz 4
 ZCZC W05 105 L15 Reading the slide provided in assignment 1
 ZCZC W05 150 L15 Doing Assignment 5
 ZCZC W05 130 L15 Doing PopQuiz 1, 2, and 3
-ZCZC W05 50 L05 Studying for Quiz 5 
+ZCZC W05 50 L05 Studying for Quiz 5
+ZCZC W06 100 L16 Reading the provided slide in assignment 1
+ZCZC W06 135 L16 Doing Assignment Week 06
+ZCZC W06 120 L16 Doing PopQuiz 1, 2, and 3
+ZCZC W06 90 L05 Studying for Quiz 6 

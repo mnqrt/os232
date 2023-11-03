@@ -45,3 +45,9 @@ The given link provied vim cheatsheet which may be helpful for Operating System.
 
 14. [C in 100 Seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4) <br>
 The given youtube link describes C simply in 100 seconds
+
+15. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html) <br>
+The given article describes Memory Allocation in C in a detailed way.
+
+16. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br>
+The given article describes how virtual memory works in operating system in clearly.
