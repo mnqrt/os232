@@ -51,3 +51,9 @@ The given article describes Memory Allocation in C in a detailed way.
 
 16. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br>
 The given article describes how virtual memory works in operating system in clearly.
+
+17. [How does KERNEL memory allocation work?](https://www.youtube.com/watch?v=NC_qkXznvkg) <br>
+The given youtube video describes memory allocation in kernel
+
+18. [Process & Conncurrency](https://www.youtube.com/watch?v=-pL2fAdb7Kw) <br>
+The given youtube video provides explanation to help understanding more about process and concurrency
