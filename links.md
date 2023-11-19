@@ -57,3 +57,10 @@ The given youtube video describes memory allocation in kernel
 
 18. [Process & Conncurrency](https://www.youtube.com/watch?v=-pL2fAdb7Kw) <br>
 The given youtube video provides explanation to help understanding more about process and concurrency
+
+19. [Process Synchronization In Operating System](https://www.youtube.com/watch?v=B6D8HGBEt1g) <br>
+The given youtube video provides a simple illustration of the synchronization process.
+
+20. [Quick explanation: Critical section](https://www.youtube.com/watch?v=BSX1YEoCVgA) <br>
+The given youtube video provides a quick yet descriptive explanation about the critical section.
+

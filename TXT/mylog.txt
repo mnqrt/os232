@@ -36,7 +36,11 @@ ZCZC W06 135 L16 Doing Assignment Week 06
 ZCZC W06 120 L16 Doing PopQuiz 1, 2, and 3
 ZCZC W06 90 L05 Studying for Quiz 6
 ZCZC W07 110 L17 Reading the provided slide in assignment 1
-ZCZC W07 100 L17 Doing Assignment Week 06
+ZCZC W07 100 L17 Doing Assignment Week 7
 ZCZC W07 140 L17 Doing PopQuiz 1 and 2
 ZCZC W07 105 L05 Studying for Quiz 7
 ZCZC W07 65 L17 Fixing problem regarding locale
+ZCZC W08 100 L18 Reading the provided slide in assignment 1
+ZCZC W08 70 L18 Trying previous final problem in assignment 1
+ZCZC W08 170 L18 Doing Assignment Week 8
+ZCZC W08 45 L05 Studying for Quiz 8
